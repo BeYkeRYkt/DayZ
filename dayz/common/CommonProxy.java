@@ -89,12 +89,12 @@ public class CommonProxy
         }
         
         LanguageRegistry.instance().addStringLocalization("entity.Crawler.name", "en_US", "Crawler");
-        LanguageRegistry.instance().addStringLocalization("entity.DayZZombie.name", "en_US", "Zombie");
-        LanguageRegistry.instance().addStringLocalization("entity.Bandit.name", "en_US", "Bandit");
-        LanguageRegistry.instance().addStringLocalization("generator.DAYZBASE", "en_US", "Day Z Original");
-        LanguageRegistry.instance().addStringLocalization("generator.DAYZSNOW", "en_US", "Day Z Snow");
+        LanguageRegistry.instance().addStringLocalization("entity.DayZZombie.name", "en_US", "Зомби");
+        LanguageRegistry.instance().addStringLocalization("entity.Bandit.name", "en_US", "Бандит");
+        LanguageRegistry.instance().addStringLocalization("generator.DAYZBASE", "en_US", "Day Z Оригинал");
+        LanguageRegistry.instance().addStringLocalization("generator.DAYZSNOW", "en_US", "Day Z Снег");
         LanguageRegistry.instance().addStringLocalization("itemGroup.creativeTabDayZ", "en_US", "Day Z");
-        LanguageRegistry.instance().addStringLocalization("container.ALL", "en_US", "DayZ Chest");
+        LanguageRegistry.instance().addStringLocalization("container.ALL", "en_US", "DayZ Сундук");
         LanguageRegistry.instance().addStringLocalization("container.RARE", "en_US", "DayZ Rare Chest");
         LanguageRegistry.instance().addStringLocalization("container.COMMON", "en_US", "DayZ Common Chest");
 
@@ -114,12 +114,12 @@ public class CommonProxy
         LanguageRegistry.addName(DayZ.waterbottleempty, "Empty Waterbottle");
         LanguageRegistry.addName(DayZ.whiskeybottlefull, "Whiskey");
         LanguageRegistry.addName(DayZ.whiskeybottleempty, "Empty Whiskey Bottle");
-        LanguageRegistry.addName(DayZ.bandage, "Bandage");
-        LanguageRegistry.addName(DayZ.antibiotics, "Anti-biotics");
-        LanguageRegistry.addName(DayZ.lemonade, "Can of Lemonade");
-        LanguageRegistry.addName(DayZ.makarovammo, "Makarov Magazine");
-        LanguageRegistry.addName(DayZ.makarov, "Makarov");
-        LanguageRegistry.addName(DayZ.ak74uammo, "AK74u Magazine");
+        LanguageRegistry.addName(DayZ.bandage, "Бинты");
+        LanguageRegistry.addName(DayZ.antibiotics, "Антиботики");
+        LanguageRegistry.addName(DayZ.lemonade, "Лимонад");
+        LanguageRegistry.addName(DayZ.makarovammo, "Магазин для Макарова");
+        LanguageRegistry.addName(DayZ.makarov, "Макаров");
+        LanguageRegistry.addName(DayZ.ak74uammo, "Магазин для AK74u");
         LanguageRegistry.addName(DayZ.ak74u, "AK74u");
         LanguageRegistry.addName(DayZ.remingtonammo, "12g Slugs");
         LanguageRegistry.addName(DayZ.remington, "Remington Shotgun");
