@@ -2,9 +2,9 @@
 {
   "modid": "Day Z Minecraft",
   "name": "Day Z",
-  "description": "An unknown infection has wiped out most of the world's population. Go Solo or team up with friends to take on the world as you choose your path in this brutal and chilling landscape using whatever means you stumble upon to survive.",
+  "description": "Мир был поражен новым,не известным виросум ,который поразил большую часть мира и привратил жителей/соседей/родных в монстров,которые теперь охотятся за вами с целью расчленить.",
   "version": "7.1",
-  "mcversion": "1.4.7",
+  "mcversion": "1.5.2",
   "url": "http://www.minecraftforum.net/topic/1304383-",
   "updateUrl": "",
   "authors": [
